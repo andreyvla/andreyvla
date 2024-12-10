@@ -1,5 +1,5 @@
-## <div align="left">Hello, nice to see you! 👋</div>  
-I'm Andrey, Backend developer.
+## <div align="left">Hello, I'm Andrey, nice to see you! 👋</div>  
+<h3 align="center">A backend Golang developer from Russia</h3>
 <br/>  
 
 ### My Skill Set  
