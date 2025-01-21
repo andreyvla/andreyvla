@@ -5,7 +5,7 @@
 ### My Skill Set  
 <div align="left">  
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Golang-090909?style=for-the-badge&logo=Go&logoColor=79d4fd" alt="GoLang" height="30" /></a> 
-<a href="https://www.sqlite.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/sqlite-090909?style=for-the-badge&logo=sqlite&logoColor=78a498" alt="SQlite" height="30" /></a> 
+<a href="https://www.postgresql.org" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/posgresql-090909?style=for-the-badge&logo=posgresql&logoColor=78a498" alt="PosgreSQL" height="30" /></a> 
 <a href="https://yaml.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/yaml-090909?style=for-the-badge&logo=yaml&logoColor=cd2730" alt="YAML" height="30" /></a> 
 <a href="https://www.json.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/json-090909?style=for-the-badge&logo=json&logoColor=9e9e9e" alt="JSON" height="30" /></a> 
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=Docker&logoColor=2496ED" alt="Docker" height="30" /></a> 
